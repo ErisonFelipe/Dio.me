@@ -5,3 +5,6 @@ Projeto 1
 	Criar um repósitorio Git.
 	Sincronizar e emviar um arquivo para esse repósitrio.
 	
+Projeto 2
+	Criando um arquivo com Html/Css
+	Estilisando página com CSS
